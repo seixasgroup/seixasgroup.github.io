@@ -24,3 +24,10 @@
   margin-bottom: 1rem;
 }
 
+.project-separator {
+  grid-column: 1 / -1;      /* span the full width */
+  height: 1px;
+  background: var(--color-border);
+  border: none;
+  margin: 1.5rem 0;
+}

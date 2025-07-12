@@ -4,12 +4,14 @@ title: Seixas Group
 ---
 
 <div style="text-align:center;">
-  <img src="/assets/seixasgroup_logo.png" alt="Seixas Group Logo" style="max-width:100px;" />
+  <img src="/assets/seixasgroup_logo.png" alt="Seixas Group Logo" style="max-width:200px;" />
 </div>
 
 # Seixas Group Projects
 
 <div class="projects-grid">
+
+  <hr class="project-separator" />
 
   <div class="project-card">
     <a href="https://github.com/seixasgroup/carcara">
@@ -20,6 +22,8 @@ title: Seixas Group
     <p><a href="https://seixasgroup.github.io/carcara/">📖 Docs & demos</a></p>
   </div>
 
+   <hr class="project-separator" />
+
   <div class="project-card">
     <a href="https://github.com/seixasgroup/poraque">
       <img src="/assets/poraque_logo.png" alt="Poraquê logo" class="project-logo"/>
@@ -29,6 +33,8 @@ title: Seixas Group
     <p><a href="https://seixasgroup.github.io/poraque/">📖 Docs & demos</a></p>
   </div>
 
+   <hr class="project-separator" />
+
   <div class="project-card">
     <a href="https://github.com/seixasgroup/oncapintada">
       <img src="/assets/oncapintada_logo.png" alt="Onça-pintada logo" class="project-logo"/>
@@ -37,6 +43,8 @@ title: Seixas Group
     <p>Onça-pintada description.</p>
     <p><a href="https://seixasgroup.github.io/oncapintada/">📖 Docs & demos</a></p>
   </div>
+
+   <hr class="project-separator" />
 
 </div>
 
