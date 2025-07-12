@@ -18,8 +18,8 @@ layout: default
       <img src="/assets/carcara_logo.png" style="height: auto; width: auto; max-height: 100px;" alt="Carcará logo" class="project-logo"/>
       <h3>Carcará</h3>
     </a>
-    <p>Carcará description</p>
-    <p><a href="https://seixasgroup.github.io/carcara/">📖 Docs & demos</a></p>
+    <p>Towards Explainable, Scalable, and Accurate Machine-Learned Interatomic Potentials</p>
+    <p><a href="https://seixasgroup.github.io/carcara/">📖 Documentation</a></p>
   </div>
 
    <hr class="project-separator" />
