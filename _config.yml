@@ -3,9 +3,24 @@ description: Showcase of our open-source materials projects
 baseurl: ""
 url: "https://seixasgroup.github.io"
 
-plugins:
-  - jekyll-remote-theme
+# themes for jekyll: 
+# - minima
+# - jekyll-theme-cayman
+# - jekyll-theme-slate
+# - jekyll-theme-architect
+# - jekyll-theme-dinky
+# - jekyll-theme-leap-day
+# - jekyll-theme-merlot
+# - jekyll-theme-midnight
+# - jekyll-theme-minimal
+# - jekyll-theme-modernist
+# - jekyll-theme-primer
+theme: jekyll-theme-modernist
 
-remote_theme: thedevslot/WhatATheme
+
+# plugins:
+#   - jekyll-remote-theme
+
+# remote_theme: thedevslot/WhatATheme
 
 
