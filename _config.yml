@@ -1,5 +1,11 @@
 title: Seixas Group
 description: Showcase of our open-source materials projects
-baseurl: ""                                 # because this *is* the user site
+baseurl: ""
 url: "https://seixasgroup.github.io"
-theme: minima
+
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: thedevslot/WhatATheme
+
+
