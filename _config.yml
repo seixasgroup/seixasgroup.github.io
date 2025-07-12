@@ -1,10 +1,8 @@
 title: Seixas Group
-description: Showcase of our open-source materials projects
+description: Showcase of projects by the Seixas group
 baseurl: ""
 url: "https://seixasgroup.github.io"
-author:
-  name: Leandro Seixas
-  
+
 theme: minima
 
 
