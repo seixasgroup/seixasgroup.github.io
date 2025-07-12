@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Seixas Group
 ---
 
 <div style="text-align:center;">
@@ -8,8 +7,7 @@ title: Seixas Group
 </div>
 
 
-
-# Seixas Group Projects
+# IA Projects
 
 <div class="projects-grid">
 
